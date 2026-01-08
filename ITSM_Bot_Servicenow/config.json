@@ -1,0 +1,31 @@
+{
+    "name": "ITSM_Bot_Servicenow",
+    "envVariables": [
+        {
+            "key": "botId",
+            "value": "st-d7a2bb6d-f50b-5627-aad1-6a84e637f2e7",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "5f97e330ade5b8100b912d1a"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "host",
+            "value": "https://platform.kore.ai/",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "5f97e330ade5b8100b912d1a"
+            ],
+            "isSecured": false
+        }
+    ]
+}
